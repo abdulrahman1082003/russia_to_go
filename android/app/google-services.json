@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292168416522",
+    "project_id": "russia-to-go",
+    "storage_bucket": "russia-to-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292168416522:android:c5de1d525aaa87999b4ef3",
+        "android_client_info": {
+          "package_name": "com.example.russia_to_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292168416522-1lmo6fk52rlkqsvrj8mesjb14ke1ugqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKDYFzx73-75UMM8DpdFBWQdLahmaM20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292168416522-1lmo6fk52rlkqsvrj8mesjb14ke1ugqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
